@@ -1,1 +1,3 @@
-# Knowledge-Sharing-App
+# Knowledge-Sharing-App 
+
+this is a first commit
